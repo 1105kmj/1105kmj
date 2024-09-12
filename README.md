@@ -13,3 +13,9 @@
  <details><summary>🤽‍♀have experienced</summary></details>
 
  <details><summary>want to learn 🏄‍♀ </summary></details>
+
+</br>
+</br>
+
+1. 휼륭한 엔지니어는 리소스를 낭비하지 않는다. </br>
+2. 성능(Performance) 전문가가 되어야 한다.
