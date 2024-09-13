@@ -24,6 +24,6 @@
 </br>
 </br>
 
-💁‍♀ for fun </br>
+💁‍♀ for Fun </br>
 - [GeekNews](https://news.hada.io/?page=2)
 
