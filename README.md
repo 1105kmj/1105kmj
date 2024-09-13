@@ -2,7 +2,7 @@
  ✏️ Training in Data Engineering </br>
  📝 Studying AWS, Linux, Data processing </br>
  🧸 Looking for Dacon, Coding Test </br>
- 🌱 Cloud, Energy Resource, Automation, Defense </br>
+ 🌱 Cloud, Energy Resource, Automation </br>
 
 </br>
 </br>
