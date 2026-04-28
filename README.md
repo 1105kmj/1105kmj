@@ -1,7 +1,3 @@
-[![SoundBadge](https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fyoutu.be%2FRDjjcgVypz0%3Fsi%3DPgfMcxK4uCVr1lAO&theme=minimal&layout=compact)](https://youtu.be/RDjjcgVypz0?si=PgfMcxK4uCVr1lAO)
-
-</br>
-
 **☁️ Building AI/LLM systems with LangChain & Google Cloud**
 
 </br>
