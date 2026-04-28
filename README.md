@@ -1,28 +1,8 @@
- 💝 Just for Fun </br>
- ✏️ Training in Data Engineering </br>
- 📝 Studying AWS, Linux, Data processing </br>
- 🧸 Looking for Dacon, Coding Test </br>
- 🌱 Cloud, Energy Resource, Automation </br>
+## 🎮 Game Development
+MyPlanet (Unity Mobile Game, Team Project)
+- Android 출시 로그라이크 슈팅 게임
+- 타워 시스템 설계 및 구현 담당
+- 버프/강화 구조 및 전투 시스템과의 연동 설계
 
-</br>
-</br>
-</br>
-
- <details><summary>🏊‍♀currently studying</summary></details>
-
- <details><summary>🤽‍♀have experienced</summary></details>
-
- <details><summary>want to learn 🏄‍♀ </summary></details>
-
-</br>
-</br>
-
-1. 휼륭한 엔지니어는 리소스를 낭비하지 않는다. </br>
-2. 성능(Performance) 전문가가 되어야 한다.
-
-</br>
-</br>
-
-💁‍♀ for Fun </br>
-- [GeekNews](https://news.hada.io/?page=2)
-
+👉 Play Store: (링크)
+👉 Repository: (팀 repo 링크)
